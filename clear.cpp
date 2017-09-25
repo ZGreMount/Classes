@@ -2,7 +2,7 @@
     > File Name: clear.cpp
     > Author: zhaohuizhen
     > Mail: 1534612574@qq.com 
-    > Created Time: 2017年09月23日 星期六 20时48分55秒
+    > Created Time: 2017年09月24日 星期日 13时39分47秒
  ************************************************************************/
 
 #include "clear.h"
